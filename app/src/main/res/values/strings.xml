@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ProtectMyFiles</string>
+    <string name="no_data">No Data</string>
+    <string name="please_enter_the_passcode_again">Please Enter the Passcode Again</string>
+    <string name="please_select_file_to_encrypt">Please Select File to Encrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="delete">Delete</string>
+    <string name="passcodes_does_not_match">Passcodes doesn\'t match</string>
+    <string name="file_successfully_encrypted">File Successfully Encrypted</string>">
+    <string name="image">Image</string>
+    <string name="video">Video</string>">
+    <string name="word">Word</string>
+    <string name="pdf">PDF</string>
+    <string name="excel">Excel</string>
+    <string name="audio">Audio</string>
+    <string name="power_point">PowerPoint</string>
+    <string name="document">Document</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="file_size_error">File Size Should be less than 50 MB</string>
+    <string name="wrong_passcode">Wrong Passcode</string>
+    <string name="name">Name, Website, ...</string>
+    <string name="username">username, email, mobile, ...</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>">
+    <string name="field_mandatory">this field is mandatory</string>
+</resources>
