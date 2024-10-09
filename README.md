@@ -21,3 +21,6 @@ An Android application designed for secure file encryption and password manageme
 * [**Coil**](https://github.com/coil-kt/coil): Image loading library
 
 # Video
+
+https://github.com/user-attachments/assets/642cd142-bb56-47f1-b7ed-222c9a89bc50
+
